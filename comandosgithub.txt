@@ -2,4 +2,8 @@
 
 2. git branch: Sirve para gestionar las ramas del proyecto. Nos permite listar las ramas existentes, crear una nueva rama para trabajar de forma segura sin alterar la principal, o eliminar ramas que ya no necesitemos.
 
-3. git status: Es uno de los comandos más usados. Nos muestra el estado actual de nuestro directorio de trabajo; nos dice qué archivos han sido modificados, cuáles están listos para guardarse (en la zona de preparación o Staging Area) y cuáles aún no están siendo rastreados por Git.
+3. git status: Es uno de los comandos más usados. Nos muestra el estado actual de nuestro directorio de trabajo; nos dice qué archivos han sido modificados, cuáles están listos para guardarse (en la zona de preparación o Staging Area) y cuáles aún no están siendo rastreados por Git..
+4. git pull: sirve para ara traer y descargar los cambios más recientes que estén en el servidor de GitHub (remoto) y fusionarlos directamente con el código que tienes en tu computadora (local).
+
+
+
